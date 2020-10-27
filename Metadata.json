@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 3083,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-workspace-post-webhook-azure-automation-webhook-runbook/master/Hornbill_WorkspacePost_Webhook.ps1",
+    "DownloadCount": 658,
+    "Id": "Hornbill-Workspace-Post-3eaab7d7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 513,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure Webhook Powershell Runbook to post to a workspace on a Hornbill Instance",
+    "Title": "Hornbill Workspace Post Webhook - Azure Automation Webhook Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-workspace-post-webhook-azure-automation-webhook-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
